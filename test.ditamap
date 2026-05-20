@@ -2,4 +2,6 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>test</title>
+    <topicref href="../../../../DITA/Concept/Apollo_AMR/safetycommon.dita"/>
+    <topicref href="../../../../DITA/Concept/Apollo_AMR/target_audience.dita"/>
 </map>
