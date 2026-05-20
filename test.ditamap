@@ -4,4 +4,5 @@
     <title>test</title>
     <topicref href="../../../../DITA/Concept/Apollo_AMR/safetycommon.dita"/>
     <topicref href="../../../../DITA/Concept/Apollo_AMR/target_audience.dita"/>
+    <topicref href="../../../../DITA/Concept/Apollo_AMR/alarm.dita"/>
 </map>
